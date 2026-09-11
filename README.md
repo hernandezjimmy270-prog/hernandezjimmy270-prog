@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy JavierHdz 👋</h1>
 
 <p align="center">
-  <b>Ing. en IA</b> · Machine Learning & Software Development · 🚀 Innovando con IA
+  <b>Ing. en IA</b> · Machine Learning 🚀 
 </p>
 
 ---
